@@ -1,4 +1,4 @@
 # Winter
-The Winter Hacking Repo
+Die Winter Hacking Repo
 
-Its time that the school pc burns!!!
+Es ist Zeit den Schul PC zu Fritieren!!!
